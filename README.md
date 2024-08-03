@@ -9,13 +9,14 @@ Clone the Repository:
 
 bash
 
-  git clone https://github.com/username/repository.git
-  cd repository
+    git clone https://github.com/username/repository.git
+    cd repository
   
 Install Dependencies:
 
 bash
-  pip install -r requirements.txt
+
+      pip install -r requirements.txt
   
 Run the Application:
 
