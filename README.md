@@ -37,3 +37,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 
 Replace https://github.com/username/repository.git with the actual URL of your GitHub repository.
+
+THE MODEL IS SOON UPCOMING 
