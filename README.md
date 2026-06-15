@@ -12,9 +12,3 @@ bash
     git clone https://github.com/lmntrx-sys/RecSys.git
     cd repository
   
-Install Dependencies:
-
-bash
-
-      pip install -r requirements.txt
-
