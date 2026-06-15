@@ -17,23 +17,4 @@ Install Dependencies:
 bash
 
       pip install -r requirements.txt
-  
-Run the Application:
 
-bash
-Copy code
-python app.py
-Open the Website:
-
-Open your web browser and go to http://localhost:5000 to see the recommendation system in action.
-
-Project Structure
-algorithm/: Contains the implementation of the recommendation algorithm.
-app.py: The main application file to run the project.
-Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-
-Replace https://github.com/lmntrx-sys/RecSys.git with the actual URL of your GitHub repository.
-
-THE MODEL IS SOON UPCOMING 
